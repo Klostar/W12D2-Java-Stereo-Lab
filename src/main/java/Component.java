@@ -17,5 +17,6 @@ public abstract class Component {
         return this.model;
 
     }
+
 }
 
